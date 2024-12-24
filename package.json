@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "consolidate": "^1.0.4",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.9.2",
+    "node.js": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
